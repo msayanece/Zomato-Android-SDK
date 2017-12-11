@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ZOMATO-ANDROID-SAYAN-SDK</string>
+    <string name="zomato_base_url">https://developers.zomato.com</string>
+</resources>
